@@ -12,7 +12,7 @@ tl.from(".second", {
     opacity: 0,
     duration: 0.5,
     delay: 0.5,
-    stagger: 2,
+    stagger: 3,
 })
 
 tl.from(".third", {
